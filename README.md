@@ -1,5 +1,5 @@
 # poke-memories
-
+Learn from RHP Team
 ## Project setup
 ```
 npm install
@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-Learn from RHP Team
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
